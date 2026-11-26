@@ -1,16 +1,15 @@
-## Hi there 👋
+# Edward Wang
 
-<!--
-**edwardwang999/edwardwang999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI agents for cross-border e-commerce operations in London
+(China suppliers → UK, TikTok Shop / Shopify / AliExpress).
 
-Here are some ideas to get you started:
+**What I build**
+- Parcel exception agent: monitors Royal Mail tracking, flags unshipped or stalled parcels, alerts warehouse ops via WhatsApp/email
+- UK customs expert agent: answers customs questions, extracts data from shipping documents, drafts declarations
+- AI product-selection pipeline (Dify + marketplace data APIs) for TikTok Shop UK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+Import/export and fulfilment operations · food science (published SCI research) · business (Southampton)
+
+**Interested in**
+Agentic workflows, creative AI, applying LLMs to real operational problems
